@@ -1,5 +1,6 @@
 # flutter_calculation
-
+In this project My classmate Roban helped me in main.dart file
+i also made changes with the help of AI in some files
 A new Flutter project.
 
 ## Getting Started
