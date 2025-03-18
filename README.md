@@ -1,6 +1,6 @@
 # flutter_calculation
-In this project My classmate Roban helped me in main.dart file
-i also made changes with the help of AI in some files
+In this project My classmate Roban helped me and i also made changes with the help of AI like chatgpt in some files
+i have updated the codes of main.dart and pubspec.yaml file
 A new Flutter project.
 
 In this assignment, i have design and develop a simple calculator application that performs basic arithmetic operations: addition, subtraction, multiplication, and division. The calculator  have a user-friendly interface that mimics a real-world calculator and should maintain the last used value even after the application is restarted.
